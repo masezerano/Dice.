@@ -8,7 +8,7 @@ void main() {
           child: Text('hello world!'),
         ),
       ),
-    ),
+    )
   );
 }
 
